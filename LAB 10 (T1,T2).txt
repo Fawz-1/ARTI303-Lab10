@@ -34,3 +34,9 @@ Username: |: ADMIN.
 Login Unsuccessful
 Sorry, you exceeded the maximum number of attempts, try again later.
 true.
+
+
+
+Task 3: Discussion
+
+The concepts learned in this lab can be applied to practical projects using Prolog. Arithmetic operators can be used to perform calculations, while logical rules and conditions can be used to validate user inputs. The login system demonstrates how Prolog can check usernames and passwords and control the number of login attempts. These concepts can help develop simple rule-based applications.
